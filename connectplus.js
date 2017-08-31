@@ -28,7 +28,7 @@ Tile = newTemplate({
   animSpeed: 0,
 
   value: 1,
-  isOnBoard: false
+  isOnBoard: false,
   squareOnBoard: [null, null],
 
   // motion animation
